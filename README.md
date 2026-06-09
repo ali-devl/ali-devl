@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 ## 📊 Live System Diagnostics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-devl&show_icons=true&theme=dark&hide_border=true" alt="Stats Matrix" />
+  <img src="https://metrics.lecoq.io/ali-devl?base=header,activity,community,repositories,metadata" alt="System Diagnostics" />
 </div>
