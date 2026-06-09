@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🐾 Profile Companion Status
+##  Profile Companion Status
 
 <table align="center" border="0">
   <tr>
@@ -44,8 +44,12 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 Live System Diagnostics
+---
+
+##  System Achievements unlocked
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ali-devl?base=header,activity,community,repositories,metadata" alt="System Diagnostics" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ali-devl&theme=dracula&no-bg=true&margin-w=15" alt="Profile Trophies" />
+  </a>
 </div>
