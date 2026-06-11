@@ -46,8 +46,3 @@ Here are some ideas to get you started:
 
 ---
 
-##  System Achievements unlocked
-
-<div align="center">
-
-  <img src="https://github-profile-achievements.vercel.app/api?username=ali-devl&theme=dracula" alt="My GitHub Achievements" /></div>
