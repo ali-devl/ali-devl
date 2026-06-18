@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 ████████████████████████████████████████████████████████████████
 █                                                              █
 █   ░█████╗░██╗░░░░░██╗                                       █
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 █   ╚═╝░░╚═╝╚══════╝╚═╝   — Ali's source code habitat        █
 █                                                              █
 ████████████████████████████████████████████████████████████████
--->
+
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - Cybersecurity tools that make auditors nervous and defenders happy
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="45%" length="60%" valign="top" align="center">
 
 ```
   /\_____/\
