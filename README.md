@@ -15,39 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-████████████████████████████████████████████████████████████████
-█                                                              █
-█   ░█████╗░██╗░░░░░██╗                                       █
-█   ██╔══██╗██║░░░░░██║                                       █
-█   ███████║██║░░░░░██║                                       █
-█   ██╔══██║██║░░░░░██║                                       █
-█   ██║░░██║███████╗██║                                       █
-█   ╚═╝░░╚═╝╚══════╝╚═╝   — Ali's source code habitat        █
-█                                                              █
-████████████████████████████████████████████████████████████████
-
-
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  > whoami                                               │
-│                                                         │
-│    Ali — CS @ Misr International University             │
-│    Major: Cybersecurity                                 │
-│    Status: Building things that shouldn't exist yet.   │
-│                                                         │
-│  > cat interests.txt                                    │
-│                                                         │
-│    [*] LLM security & prompt injection research         │
-│    [*] Systems programming & low-level exploits         │
-│    [*] Web dev — because someone has to ship it         │
-│    [*] Swarm intelligence & ML fundamentals             │
-│                                                         │
-│  > uptime                                               │
-│    Been coding for longer than I've slept consistently. │
-└─────────────────────────────────────────────────────────┘
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░                                                           ░
+ ░    /\_____/\     ╔═══════════════════════════════════╗   ░
+ ░   ( ò_ó    )    ║  > whoami                         ║   ░
+ ░    > ■ ■  <     ║    Ali · Cybersecurity · MIU       ║   ░
+ ░   (__|__|__)    ║                                   ║   ░
+ ░                 ║  > uptime                         ║   ░
+ ░   Byte the Cat  ║    Coding longer than I've slept  ║   ░
+ ░   Repo Guardian ║                                   ║   ░
+ ░                 ║  > status: Building things that   ║   ░
+ ░   ENERGY  ████  ║            shouldn't exist yet.   ║   ░
+ ░   VIBE    ███░  ╚═══════════════════════════════════╝   ░
+ ░   COFFEE  ██░░  ← needs refill                         ░
+ ░                                                           ░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 </div>
@@ -60,10 +45,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
-
 **🔬 Active Research**
 > Multi-hop prompt injection propagation in LLM agent pipelines — targeting USENIX / ACM CCS.
 > Built on LangGraph · AutoGen · ChromaDB · a five-person team · and too much caffeine.
@@ -72,23 +53,13 @@ Here are some ideas to get you started:
 - A GitHub-powered sandboxed code execution environment (PHP + WASM + iframe isolation)
 - Cybersecurity tools that make auditors nervous and defenders happy
 
-</td>
-<td width="45%" length="60%" valign="top" align="center">
-
+**🎯 Interests**
 ```
-  /\_____/\
- ( ò_ó    )   Byte the Cat
-  > █ █ <     Guardian of this repo.
- (__|__|__)    Dietary req: clean compiles only.
-
- ENERGY   [██████████] 100%
- VIBE      [████████░░]  80%
- CAFFEINE  [████░░░░░░]  40%  ← needs refill
+  [*] LLM security & prompt injection research
+  [*] Systems programming & low-level exploits
+  [*] Web dev — because someone has to ship it
+  [*] Swarm intelligence & ML fundamentals
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -151,11 +122,6 @@ Here are some ideas to get you started:
 <sub>Profile views: ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=FF6B6B&label=visitors)</sub>
 
 </div>
-      <sub>*Note: Keeping my GitHub commit streaks alive keeps Byte energized!*</sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ---
