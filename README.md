@@ -81,9 +81,9 @@ Systems Analysis    ████████████████░░░░
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00C8F0&icon_color=7C5CDE&text_color=8B98B8&bg_color=0A0E1A)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-devl&show_icons=true&theme=transparent&hide_border=true&title_color=00C8F0&icon_color=7C5CDE&text_color=8B98B8&bg_color=0A0E1A)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00C8F0&text_color=8B98B8&bg_color=0A0E1A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-devl&layout=compact&theme=transparent&hide_border=true&title_color=00C8F0&text_color=8B98B8&bg_color=0A0E1A)
 
 </div>
 
