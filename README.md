@@ -14,95 +14,107 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- PROFILE README — Ali -->
 
 <div align="center">
 
 ```
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░                                                           ░
- ░    /\_____/\     ╔═══════════════════════════════════╗   ░
- ░   ( ò_ó    )    ║  > whoami                         ║   ░
- ░    > ■ ■  <     ║    Ali · Cybersecurity · MIU       ║   ░
- ░   (__|__|__)    ║                                   ║   ░
- ░                 ║  > uptime                         ║   ░
- ░   Byte the Cat  ║    Coding longer than I've slept  ║   ░
- ░   Repo Guardian ║                                   ║   ░
- ░                 ║  > status: Building things that   ║   ░
- ░   ENERGY  ████  ║            shouldn't exist yet.   ║   ░
- ░   VIBE    ███░  ╚═══════════════════════════════════╝   ░
- ░   COFFEE  ██░░  ← needs refill                         ░
- ░                                                           ░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════════╗
+║  PROFILE.README.MD // INITIALIZED                    ║
+╚══════════════════════════════════════════════════════╝
 ```
+
+# Ali
+
+`CS_STUDENT` &nbsp;·&nbsp; `CYBERSECURITY` &nbsp;·&nbsp; `MIU_CAIRO`
+
+![Network Security](https://img.shields.io/badge/Network_Security-00C8F0?style=flat-square&logoColor=0A0E1A&labelColor=0A0E1A&color=00C8F0)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-7C5CDE?style=flat-square&logoColor=0A0E1A&labelColor=0A0E1A&color=7C5CDE)
+![Systems Analysis](https://img.shields.io/badge/Systems_Analysis-00C8F0?style=flat-square&logoColor=0A0E1A&labelColor=0A0E1A&color=00C8F0)
+![Open to Collab](https://img.shields.io/badge/Open_To_Collab-4ADE80?style=flat-square&logoColor=0A0E1A&labelColor=0A0E1A&color=4ADE80)
 
 </div>
 
 ---
 
-<div align="center">
+## `// whoami`
 
-### `// currently running`
-
-</div>
-
-**🔬 Active Research**
-> Multi-hop prompt injection propagation in LLM agent pipelines — targeting USENIX / ACM CCS.
-> Built on LangGraph · AutoGen · ChromaDB · a five-person team · and too much caffeine.
-
-**🛠 What I'm Building**
-- A GitHub-powered sandboxed code execution environment (PHP + WASM + iframe isolation)
-- Cybersecurity tools that make auditors nervous and defenders happy
-
-**🎯 Interests**
-```
-  [*] LLM security & prompt injection research
-  [*] Systems programming & low-level exploits
-  [*] Web dev — because someone has to ship it
-  [*] Swarm intelligence & ML fundamentals
+```yaml
+name:     Ali
+role:     Cybersecurity Student
+school:   Misr International University — Cairo, EG
+focus:
+  - Network security & traffic analysis
+  - Web application security (SAST / DAST)
+  - Penetration testing & red team tooling
+  - Low-level systems & hardware security
+status:   Grad project in progress // team of 5
 ```
 
 ---
 
+## `// projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| **[GitHub Sandbox](https://github.com/)** | PHP code execution sandbox with SAST scanner & VFS auto-patching pipeline | `PHP` `JS` `ReportLab` |
+| **[Network Simulation](https://github.com/)** | College-scale network topology with VLANs, routing, and segmentation | `Cisco PT` `Networking` |
+| **[Home Lab](https://github.com/)** | Self-hosted security research env — traffic capture, log analysis, IDS | `Linux` `Python` `Bash` |
+| **[Movie Streaming App](https://github.com/)** | Full-stack streaming platform built end to end | `PHP` `JS` `MySQL` |
+| **[Hotel Management System](https://github.com/)** | Reservation & ops management system with role-based access | `Python` `SQL` |
+
+---
+
+## `// technical domains`
+
+```
+Network Security    ████████████████████░░░  88%
+Python              ███████████████████░░░░░  82%
+Linux / Bash        ████████████████████░░░░  78%
+Web Security        █████████████████░░░░░░░  75%
+Systems Analysis    ████████████████░░░░░░░░  70%
+```
+
+---
+
+## `// stats`
+
 <div align="center">
 
-### `// stack`
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00C8F0&icon_color=7C5CDE&text_color=8B98B8&bg_color=0A0E1A)
 
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=FFD43B)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=8892be)
-![JavaScript](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=A8B9CC)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=FCC624)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=375BD2)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=F05032)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00C8F0&text_color=8B98B8&bg_color=0A0E1A)
 
 </div>
 
 ---
 
-<div align="center">
+## `// certifications`
 
-### `// stats`
+```
+[FETCHING FROM CREDLY API...]
+```
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B6B&icon_color=FF6B6B&text_color=c9d1d9&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF6B6B&text_color=c9d1d9)
-
-</div>
+> Badges auto-loaded from Credly — see pinned repositories.
 
 ---
 
+## `// currently`
+
+- 🔭 Building a **multi-agent security pipeline** for grad project
+- 📡 Deepening expertise in **ICS/SCADA security** and **LLM attack surfaces**
+- 🛠️ Maintaining a self-hosted **home lab** for red team practice
+- 📄 Converting lecture notes into structured study materials with Python
+
+---
+
+## `// connect`
+
 <div align="center">
 
-### `// things I believe`
-
-*"Security is not a product, it's a process — and the process is never done."*
-
-*"The best exploit is the one no one thought to look for."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=00C8F0)](https://linkedin.com/in/YOUR_HANDLE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0A0E1A?style=for-the-badge&logo=tryhackme&logoColor=7C5CDE)](https://tryhackme.com/p/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-0A0E1A?style=for-the-badge&logo=gmail&logoColor=00C8F0)](mailto:your@email.com)
 
 </div>
 
@@ -111,18 +123,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════╗
-║  Let's connect — or at least compare notes. ║
-╚══════════════════════════════════════════════╝
+// EOF — last_updated: 2026-06-18
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
-
-<sub>Profile views: ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=FF6B6B&label=visitors)</sub>
-
 </div>
----
-
----
-
