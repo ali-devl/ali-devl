@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - Cybersecurity tools that make auditors nervous and defenders happy
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ```
   /\_____/\
